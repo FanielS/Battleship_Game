@@ -5,7 +5,7 @@ The locations of the fleets are concealed from the other player.
 Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 
 
-## This project will help you get more familiar with arrays.
+#### This project will help you get more familiar with arrays:
 - You will be recreating the game of battleships.
 - Each player has a 10 by 10 grid and will place their 5 ships on the grid.
 - Once the game starts the players take turns - first to place their ships and then to shoot at each other's ships
